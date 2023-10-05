@@ -141,15 +141,6 @@ blockquote.kg-blockquote-alt {
   grid-column: full-start/full-end;
 }
 
-.kg-gallery-container {
-  display: none;
-}
-.kg-gallery-row {
-  display: none;
-}
-.kg-gallery-image {
-  display: none;
-}
 .kg-bookmark-card .kg-bookmark-container {
     border-radius: 0.25em !important;
 }
